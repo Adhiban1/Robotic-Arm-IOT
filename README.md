@@ -1,4 +1,4 @@
-# Robotic-Arm-IOT
+# DESIGN AND IMPLEMENTATION OF AN AUTOMATED ROBOTIC ARM USING IOT
 
 ## Project by
 ### Students:
