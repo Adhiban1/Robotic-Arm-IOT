@@ -1,0 +1,22 @@
+{
+"IP": "192.168.4.1",
+"port": 80,
+"base": 0,
+"sholder": 135,
+"elbow": 135,
+"wristR": 0,
+"wristU": 45,
+"gripper": 150,
+"s1From": 0,
+"s1To": 180,
+"s2From": 0,
+"s2To": 180,
+"s3From": 0,
+"s3To": 110,
+"s4From": 0,
+"s4To": 180,
+"s5From": 0,
+"s5To": 180,
+"s6From": 80,
+"s6To": 150
+}
