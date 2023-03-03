@@ -149,17 +149,17 @@ port = details["port"]  # ESP32 Server Port
 Functions:
 |Functions|Description|
 |---|---|
-|storeData|It will store servo motor angles to `data.json`|
-|formula|It will do inverse kinematics converting `x`, `y`, `z` coordinates to servo motor angles|
-|display|It will show the coordinates and othe details in tkinter window|
-|check|It checks whether `x`, `y`, `z` goes out of range or not|
-|update|It will update the x,y,z coordinates in tkinter window|
-|connect|It will connect to ESP32|
-|disconnect|It will disconnect ESP32|
-|send|It will send servo motor angles to ESP32|
-|xf|It will change `x` value when ever the `x slide` is changed in tkinter|
-|move|It will move Robotic arm to the position where we set x,y,z|
-|record|It will store that x,y,z coordinates to `data.json`|
-|clear|It will make empty `data.json`|
-|default|It will move Robotic Arm to its default position|
-|automate|It will get all coordinates from `data.json` and move Robotic Arm to that coordinates in continous loop|
+|`storeData`|It will store servo motor angles to `data.json`|
+|`formula`|It will do inverse kinematics converting `x`, `y`, `z` coordinates to servo motor angles|
+|`display`|It will show the coordinates and othe details in tkinter window|
+|`check`|It checks whether `x`, `y`, `z` goes out of range or not|
+|`update`|It will update the x,y,z coordinates in tkinter window|
+|`connect`|It will connect to ESP32|
+|`disconnect`|It will disconnect ESP32|
+|`send`|It will send servo motor angles to ESP32|
+|`xf`|It will change `x` value when ever the `x slide` is changed in tkinter|
+|`move`|It will move Robotic arm to the position where we set x,y,z|
+|`record`|It will store that x,y,z coordinates to `data.json`|
+|`clear`|It will make empty `data.json`|
+|`default`|It will move Robotic Arm to its default position|
+|`automate`|It will get all coordinates from `data.json` and move Robotic Arm to that coordinates in continous loop|
